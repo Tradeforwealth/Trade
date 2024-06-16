@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trade for Wealth</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Trade for Wealth</h1>
+        <p>Master the Market</p>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#resources">Learning Resources</a></li>
+                <li><a href="#community">Community</a></li>
+                <li><a href="#testimonials">Testimonials</a></li>
+                <li><a href="#contact">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="home">
+        <h2>Welcome to Trade for Wealth</h2>
+        <p>Your Gateway to Financial Freedom</p>
+        <a href="#about" class="button">Learn More</a>
+    </section>
+    
+    <section id="about">
+        <h2>About Us</h2>
+        <p>At Trade for Wealth, we believe that anyone can become a successful trader with the right guidance and education. Our founder, Arshdeep Sharma, has turned years of experience and learning into a platform that educates and supports traders at all levels. Join us on our mission to democratize financial success.</p>
+    </section>
+    
+    <section id="services">
+        <h2>Our Services</h2>
+        <ul>
+            <li>Courses: From beginner to advanced levels</li>
+            <li>Consultation: Personalized trading and investment advice</li>
+            <li>Subscription Plans: Exclusive content and benefits</li>
+        </ul>
+    </section>
+    
+    <section id="resources">
+        <h2>Learning Resources</h2>
+        <p>Stay updated with the latest market trends, tips, and strategies through our regular blog posts. Our articles are designed to keep you informed and ahead of the curve.</p>
+        <p>Watch and learn from our extensive video library. From tutorials to market analysis, our videos provide valuable insights and practical knowledge.</p>
+        <p>Join our live webinars and workshops to learn directly from industry experts. Check our schedule and register for upcoming events.</p>
+    </section>
+    
+    <section id="community">
+        <h2>Join Our Community</h2>
+        <p>Connect with like-minded traders on our Telegram channel and follow us on social media for daily updates and tips.</p>
+    </section>
+    
+    <section id="testimonials">
+        <h2>What Our Clients Say</h2>
+        <p>Read success stories and feedback from our clients and followers.</p>
+    </section>
+    
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Have questions or need more information? Fill out the form below, and we'll get back to you shortly.</p>
+        <form>
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name">
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email">
+            <label for="message">Message:</label>
+            <textarea id="message" name="message"></textarea>
+            <button type="submit">Submit</button>
+        </form>
+    </section>
+    
+    <footer>
+        <p>© 2024 Trade for Wealth. All rights reserved.</p>
+    </footer>
+</body>
+</html>
